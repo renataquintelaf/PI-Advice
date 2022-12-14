@@ -1,6 +1,6 @@
-# renata conselhos
+# Advice
 
-This template should help get you started developing with Vue 3 in Vite.
+this program allows you to show advice randomly. All coming from api advice slip.
 
 ## Recommended IDE Setup
 
